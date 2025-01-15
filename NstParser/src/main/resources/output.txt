@@ -1,0 +1,17 @@
+3: "en : I have completed the test task.
+3: ru : Я выполнил тестовое задание.
+3: es : He completado la tarea de prueba.'
+5: "en : The next stage is the technical interview.
+5: ru : Следующий этап - Техническое собеседование.
+5: fr : La prochaine étape - est l'entretien technique.'
+7: "en : I would be happy to join your team.
+7: ru : Буду рад стать членом вашей команды.
+7: de : Ich wäre glücklich, Teil Ihres Teams zu werden.'
+10: "en : Thank you
+10: ru : Спасибо!!
+10: de : Danke
+10: fr : Merci
+10: es : Gracias'
+11: "fr : Merci
+11: zh : 谢谢
+11: ru : Спасибо'

@@ -1,0 +1,12 @@
+
+Some random data here.
+NStr("en = 'I have completed the test task.'; ru = 'Я выполнил тестовое задание.'; es = 'He completado la tarea de prueba.'")
+Another function call.
+NStr("en = 'The next stage is the technical interview.'; ru = 'Следующий этап - Техническое собеседование.'; fr = 'La prochaine étape - est l'entretien technique.'")
+Unrelated text here.
+NStr("en = 'I would be happy to join your team.'; ru = 'Буду рад стать членом вашей команды.'; de = 'Ich wäre glücklich, Teil Ihres Teams zu werden.'")
+Another random text.
+Просто текст
+AnotherFunctionNStr("en = 'Thank you'; ru = 'Спасибо'; de = 'Danke'; fr = 'Merci'; es = 'Gracias'")
+NStr("fr = 'Merci'; zh = '谢谢'; ru = 'Спасибо'")
+
